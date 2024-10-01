@@ -1,6 +1,6 @@
 # PRD3-Prototype
 PRD3 Prototype of Shadows Over Suburbia 
-
+Play: https://mstrykul1336.github.io/PRD3-Prototype/
 9/30/24:
 Tasks: 
 Attack system and health system
@@ -17,7 +17,7 @@ Attack system and health system
 - -Fixed the 2 capsules issue.
 - Tried to work on an attack system for at least 6 hours, it doesn't work. I can't get the player ID to figure out what players exist.
 - Health system is there, UI is buggy right now. But it exists and every role has different health.
-- Winning and losing exists, depending on what side you are on and how many players are left. This function is called after voting and during the start of the day cycle to check win cons. It will put text on the screen with winning team and then send you back to title screen. 
+- Winning and losing exists, depending on what side you are on and how many players are left. This function is called after voting and during the start of the day cycle to check win cons. It will put text on the screen with winning team and then send you back to title screen. (however because photon doesn't let me disconnect players, it doesn't work. it only works with singleplayer)
 - Announces what players were killed over the night (for now, you can test this by killing yourself since attacks don't work.)
 - Attack UI and code is there, it's just a mess. 
 - If you are voted out or die, it will destroy your game object for now. I wanted it to disconnect you, but photon told me no. 
