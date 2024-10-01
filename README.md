@@ -1,6 +1,7 @@
 # PRD3-Prototype
 PRD3 Prototype of Shadows Over Suburbia 
 Play: https://mstrykul1336.github.io/PRD3-Prototype/
+Full Game: https://github.com/mstrykul1336/Shadows-Over-Suburbia-Prototype-
 9/30/24:
 Tasks: 
 Attack system and health system
